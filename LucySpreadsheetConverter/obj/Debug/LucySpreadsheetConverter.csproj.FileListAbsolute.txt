@@ -1,0 +1,6 @@
+C:\Dev\ThreeSixty\LucySpreadsheetConverter\LucySpreadsheetConverter\bin\Debug\LucySpreadsheetConverter.exe.config
+C:\Dev\ThreeSixty\LucySpreadsheetConverter\LucySpreadsheetConverter\bin\Debug\LucySpreadsheetConverter.exe
+C:\Dev\ThreeSixty\LucySpreadsheetConverter\LucySpreadsheetConverter\bin\Debug\LucySpreadsheetConverter.pdb
+C:\Dev\ThreeSixty\LucySpreadsheetConverter\LucySpreadsheetConverter\obj\Debug\LucySpreadsheetConverter.csprojResolveAssemblyReference.cache
+C:\Dev\ThreeSixty\LucySpreadsheetConverter\LucySpreadsheetConverter\obj\Debug\LucySpreadsheetConverter.exe
+C:\Dev\ThreeSixty\LucySpreadsheetConverter\LucySpreadsheetConverter\obj\Debug\LucySpreadsheetConverter.pdb
